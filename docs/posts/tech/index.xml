@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on Web アプリ学習コース</title>
+    <link>https://fs5013-furi-sutao.github.io/hugo-tutorial/posts/tech/</link>
+    <description>Recent content in Tech on Web アプリ学習コース</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 14 Jul 2020 18:44:17 +0900</lastBuildDate>
+    
+	<atom:link href="https://fs5013-furi-sutao.github.io/hugo-tutorial/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Golang</title>
+      <link>https://fs5013-furi-sutao.github.io/hugo-tutorial/posts/tech/golang/</link>
+      <pubDate>Tue, 14 Jul 2020 18:44:18 +0900</pubDate>
+      
+      <guid>https://fs5013-furi-sutao.github.io/hugo-tutorial/posts/tech/golang/</guid>
+      <description>// GetTitleFunc returns a func that can be used to transform a string to // title case. // // The supported styles are // // - &amp;#34;Go&amp;#34; (strings.Title) // - &amp;#34;AP&amp;#34; (see https://www.apstylebook.com/) // - &amp;#34;Chicago&amp;#34; (see https://www.chicagomanualofstyle.org/home.html) // // If an unknown or empty style is provided, AP style is what you get. func GetTitleFunc(style string) func(s string) string { switch strings.ToLower(style) { case &amp;#34;go&amp;#34;: return strings.Title case &amp;#34;chicago&amp;#34;: return transform.</description>
+    </item>
+    
+  </channel>
+</rss>

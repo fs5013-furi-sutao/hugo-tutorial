@@ -1,0 +1,16 @@
+baseURL = "https://fs5013-furi-sutao.github.io/hugo-tutorial"
+publishDir = "docs"
+
+author = "Hashimoto Natsuki"
+theme = "hugo-theme-learn"
+
+DefaultContentLanguage = "ja"
+languageCode = "ja-jp"
+title = "Web アプリ学習コース"
+subtitle = "FreeStyle e-learning"
+
+logoHomeLink = "/hugo-tutorial"
+
+[params]
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "mine"
