@@ -1,4 +1,4 @@
-baseURL = "https://fs5013-furi-sutao.github.io/hugo-tutorial"
+baseURL = "https://fs5013-furi-sutao.github.io/hugo-tutorial/"
 publishDir = "docs"
 
 author = "Hashimoto Natsuki"
@@ -9,7 +9,7 @@ languageCode = "ja-jp"
 title = "Web アプリ学習コース"
 subtitle = "FreeStyle e-learning"
 
-logoHomeLink = "/hugo-tutorial"
+logoHomeLink = "/hugo-tutorial/"
 
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
